@@ -5,6 +5,7 @@ set omnifunc=syntaxcomplete#Complete
 
 " Open NERDTree with vim
 let sbv_open_nerdtree_to_start=1
+let g:NERDTreeWinSize=15
 " Open Nerd Panel with a new tab
 let sbv_open_nerdtree_with_new_tab=1
 " Enabled / Disabled placeholder chars
